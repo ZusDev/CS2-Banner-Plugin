@@ -3,6 +3,8 @@ CS2 Banner CenterHTML Ads Plugin based on CounterStrikeSharp
 
 <img width="914" height="466" alt="banner" src="https://github.com/user-attachments/assets/1ca7b79f-4448-4f3a-9c1c-078c6e667de1" />
 
+---
+
 <p align="center">
   <a href="https://discord.gg/d5uvMmUpuE">
     <img src="https://img.shields.io/badge/Discord-Join-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
