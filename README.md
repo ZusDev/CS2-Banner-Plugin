@@ -11,6 +11,12 @@ CS2 Banner CenterHTML Ads Plugin based on CounterStrikeSharp
   </a>
 </p>
 
+<div align="center">
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-Support_Development-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=000000)](https://buymeacoffee.com/cs4fun)
+
+</div>
+
 ## Requirements
 
 [![Metamod:Source](https://img.shields.io/badge/Metamod:Source-2d2d2d?logo=sourceengine)](https://www.sourcemm.net)
